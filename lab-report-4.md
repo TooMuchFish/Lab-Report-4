@@ -15,7 +15,7 @@
 
 
 
-# Answer the following questions with 2-3 sentences each:
+# Answers the following 3 questions
 * 1. Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
 - No, when we were trying to fix the snippet 1, we are need more than 10 lines of code change, because we have to follow the github language to fix the code format, and there is exist a few cases to consider. For the instance, if the format of code is inside open and close brackets, and if one of the bracket is inside code format, then so on. Therefore, we need some more interchange codes to consider those cases, and the code change will more than 10 lines long.
