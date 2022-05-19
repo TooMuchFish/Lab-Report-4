@@ -10,7 +10,7 @@
 [MyMarkdownParse](https://github.com/TooMuchFish/markdown-parser)
 >
 # The link to the one repository reviewed in week 7
-[ReviewedMarkdownParse](https://github.com/mikayladalton2/markdown-parser)
+[ReviewedMarkdownParse](https://github.com/ezh247467/markdown-parser.git)
 >
 
 
