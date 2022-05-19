@@ -12,8 +12,23 @@
 # The link to the one repository reviewed in week 7
 [ReviewedMarkdownParse](https://github.com/ezh247467/markdown-parser.git)
 >
+# The Expected Out Put For Each Of The Snippet
+* snippet 1 in commonmark.js dingus [link](snippet1.png)
+![snippet1](snippet1.png)
+` Expected will be [`google.com, google.com, ucsd.edu] `
+>
+* snippet 2 in commonmark.js dingus [link](snippet2.png)
+![snippet2](snippet2.png)
+` Expected will be [a.com, a.com(()), example.com] `
+>
+* snippet 3 in commonmark.js dingus [link](snippet3.png)
+![snippet3](snippet3.png)
+` Expected will be [https://ucsd-cse15l-w22.github.io/] `
+>
 
+# run the test for my implementation
 
+# run the test for reviewed implementation in week 7
 
 # Answers the following 3 questions
 * 1. Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
