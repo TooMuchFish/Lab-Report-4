@@ -39,8 +39,16 @@ the expect output was [https://www.twitter.com, https://sites.google.com/eng.ucs
 >
 
 # Run the test with my implementation repository
+- Code screenshot
+
+- Output screenshot
+
 
 # Run the test with the reviewed implementation repository in week 7
+- Code screenshot
+
+- Output screenshot
+
 
 # Answers the following 3 questions
 * 1. Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
