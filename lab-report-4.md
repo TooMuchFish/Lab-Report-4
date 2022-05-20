@@ -17,7 +17,7 @@
 ![snippet1](snippet1.png)
 ___
 ```
-The expect output was [url.com, google.com, google.com, ucsd.edu]
+The expect output was [google.com, google.com, ucsd.edu]
 ```
 
 >
