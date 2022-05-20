@@ -33,7 +33,7 @@ the expect output was [a.com, a.com(()), example.com]
 ![snippet3](snippet3.png)
 ___
 ```
-the expect output was [https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, github.com, https://cse.ucsd.edu/]
+the expect output was [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
 ```
 
 >
