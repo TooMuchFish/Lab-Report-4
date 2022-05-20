@@ -40,14 +40,17 @@ the expect output was [https://www.twitter.com, https://sites.google.com/eng.ucs
 
 # Run the test with my implementation repository
 - Code screenshot
-
+  ![mycode1](mycode1.png)
+  ![mycode2](mycode2.png)
 - Terminal output screenshot
-
-
+  ![myoutput1](myoutput1.png)
+  ![myoutput2](myoutput2.png)
 # Run the test with the reviewed implementation repository in week 7
 - Code screenshot
-
+  ![reviewcode1](reviewedcode1.png)
+  ![reviewcode2](reviewedcode2.png)
 - Terminal output screenshot
+  ![reviewoutput](reviewedoutput1.png)
 
 
 # Answers the following 3 questions
