@@ -41,13 +41,13 @@ the expect output was [https://www.twitter.com, https://sites.google.com/eng.ucs
 # Run the test with my implementation repository
 - Code screenshot
 
-- Output screenshot
+- Terminal output screenshot
 
 
 # Run the test with the reviewed implementation repository in week 7
 - Code screenshot
 
-- Output screenshot
+- Terminal output screenshot
 
 
 # Answers the following 3 questions
