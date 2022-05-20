@@ -17,7 +17,7 @@
 ![snippet1](snippet1.png)
 ___
 ```
-The expect output is [`google.com, google.com, ucsd.edu]
+The expect output was [url.com, `google.com, google.com, ucsd.edu]
 ```
 
 >
@@ -25,7 +25,7 @@ The expect output is [`google.com, google.com, ucsd.edu]
 ![snippet2](snippet2.png)
 ___
 ```
-the expect output is [a.com, a.com(()), example.com]
+the expect output was [a.com, a.com(()), example.com]
 ```
 
 >
@@ -33,7 +33,7 @@ the expect output is [a.com, a.com(()), example.com]
 ![snippet3](snippet3.png)
 ___
 ```
-the expect output is [https://www.twitter.com]
+the expect output was [https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, github.com, https://cse.ucsd.edu/]
 ```
 
 >
