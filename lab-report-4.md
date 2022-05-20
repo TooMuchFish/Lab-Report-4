@@ -40,10 +40,11 @@ the expect output was [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022
 
 # Run the test with my implementation repository
 - Code screenshot
-
+  ![mycode1](mycode1.png)
+  ![mycode2](mycode2.png)
 
 - Terminal output screenshot
-
+  ![myoutput1](myoutput1.png)
   
 # Run the test with the reviewed implementation repository in week 7
 - Code screenshot
