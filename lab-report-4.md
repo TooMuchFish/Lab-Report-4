@@ -38,9 +38,9 @@ the expect output is [https://ucsd-cse15l-w22.github.io/]
 
 >
 
-# Run the test for my implementation
+# Run the test with my implementation repository
 
-# Run the test for reviewed implementation in week 7
+# Run the test with the reviewed implementation repository in week 7
 
 # Answers the following 3 questions
 * 1. Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
