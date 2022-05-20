@@ -13,7 +13,7 @@
 [ReviewedMarkdownParse](https://github.com/ezh247467/markdown-parser.git)
 >
 # The Expected Out Put For Each Of The Snippet
-* 1. snippet 1 with the commonmark.js dingus test [link](snippet1.png)
+* 1. snippet 1 with the commonmark.js dingus test [image](snippet1.png)
 ![snippet1](snippet1.png)
 ___
 ```
@@ -21,7 +21,7 @@ The expect output was [url.com, google.com, google.com, ucsd.edu]
 ```
 
 >
-* 2. snippet 2 with the commonmark.js dingus test [link](snippet2.png)
+* 2. snippet 2 with the commonmark.js dingus test [image](snippet2.png)
 ![snippet2](snippet2.png)
 ___
 ```
@@ -29,7 +29,7 @@ the expect output was [a.com, a.com(()), example.com]
 ```
 
 >
-* 3. snippet 3 with the commonmark.js dingus test [link](snippet3.png)
+* 3. snippet 3 with the commonmark.js dingus test [image](snippet3.png)
 ![snippet3](snippet3.png)
 ___
 ```
