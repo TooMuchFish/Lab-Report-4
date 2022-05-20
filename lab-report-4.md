@@ -7,10 +7,10 @@
 ![welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
 >
 # The link to my markdown-parse repository
-[MyMarkdownParse](https://github.com/TooMuchFish/markdown-parser)
+[MarkdownParse-My](https://github.com/TooMuchFish/markdown-parser)
 >
 # The link to the one repository reviewed in week7
-[ReviewedMarkdownParse](https://github.com/ezh247467/markdown-parser.git)
+[MarkdownParse-Reviewed](https://github.com/ezh247467/markdown-parser.git)
 >
 # The Expected Out Put For Each Of The Snippet
 * 1. snippet 1 with the commonmark.js dingus test [image](snippet1.png)
